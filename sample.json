@@ -3,7 +3,7 @@
     {
       "sha": "first-sha-here",
       "size": 100,
-      "name": "banana
+      "name": "banana"
     },
     {
       "sha": "second-sha-here",
@@ -19,6 +19,6 @@
     {
       "offset": 1400,
       "file-sha": "third-sha-here"
-    },
+    }
   ]
 }
