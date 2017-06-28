@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "sha": "first-sha-here",
+      "size": 100,
+      "name": "banana
+    },
+    {
+      "sha": "second-sha-here",
+      "size": 50,
+      "name": "asldkf"
+    }
+  ],
+  "chunks": [
+    {
+      "offset": 0,
+      "file-sha": "third-sha-here"
+    },
+    {
+      "offset": 1400,
+      "file-sha": "third-sha-here"
+    },
+  ]
+}
