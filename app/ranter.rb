@@ -2,7 +2,6 @@ require_relative 'constants'
 require_relative 'chunker'
 require_relative 'network'
 require 'json'
-require 'pry'
 
 class Ranter
   def self.respond_to_plead(packet, addr)
