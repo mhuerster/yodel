@@ -1,0 +1,4 @@
+YODEL_PORT = 6270
+MAX_UDP_PACKET_SIZE = 1400
+CHUNK_SIZE_BYTES = 2_097_152 # 2 mebibytes
+LOCAL_METADATA_PATH = '../local_metadata.json'
